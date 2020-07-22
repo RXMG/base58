@@ -1,10 +1,14 @@
 {
-    "name": "allty/base58",
+    "name": "rxmg/base58",
     "description": "Base58 encoder/decoder written in PHP.",
     "authors": [
         {
             "name": "Matthias ETIENNE",
             "email": "matt@allty.com"
+        },
+        {
+            "name": "Geoffrey Hoffman",
+            "email": "geoffrey.hoffman@gmail.com"
         }
     ],
     "license" : "MIT",
@@ -16,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Allty": "src/"
+            "Rxmg": "src/"
         }
     }
 }
